@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.shinow.qrscan-core-1.6.0-14:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.shinow.qrscan-core-1.6.0-14:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.shinow.qrscan-core-1.6.0-14:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/layout-v21/notification_action.xml",
+        "source": "com.shinow.qrscan-core-1.6.0-14:/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-0 C:\Users\admin\.gradle\caches\transforms-3\1d6e78cb29093571443e5ba80bcbfa57\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-1 C:\Users\admin\.gradle\caches\transforms-3\7ed9733ec8ce672d9ff58f702c46545f\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-2 C:\Users\admin\.gradle\caches\transforms-3\d116adae52d498749ef67daaa05aaa28\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.7-3 C:\Users\admin\.gradle\caches\transforms-3\d76e8a46acc4ae31976386d3fc876259\transformed\jetified-exoplayer-core-2.18.7\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-4 C:\Users\admin\.gradle\caches\transforms-3\fc585ac4af70e95fc5937e4d39d673bb\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-5 C:\Users\admin\.gradle\caches\transforms-3\fd40f8a2f924f2bee2ebf3ed7fc59bb7\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.12\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.4.12\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 D:\ADAM\adamprojects\OlympicCombat\build\video_player_android\intermediates\merged_res\release

@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/layout-v16/notification_template_custom_big.xml",
+        "source": "com.shinow.qrscan-core-1.6.0-14:/layout-v16/notification_template_custom_big.xml"
+    }
+]

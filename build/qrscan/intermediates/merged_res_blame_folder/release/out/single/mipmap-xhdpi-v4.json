@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/mipmap-xhdpi-v4/ic_light.png",
+        "source": "com.shinow.qrscan-main-16:/mipmap-xhdpi/ic_light.png"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/mipmap-xhdpi-v4/ic_back.png",
+        "source": "com.shinow.qrscan-main-16:/mipmap-xhdpi/ic_back.png"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/mipmap-xhdpi-v4/ic_photo.png",
+        "source": "com.shinow.qrscan-main-16:/mipmap-xhdpi/ic_photo.png"
+    }
+]

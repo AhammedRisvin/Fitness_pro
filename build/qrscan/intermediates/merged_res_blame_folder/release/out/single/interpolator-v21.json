@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "com.shinow.qrscan-material-1.3.0-4:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "com.shinow.qrscan-material-1.3.0-4:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    },
+    {
+        "merged": "com.shinow.qrscan-merged_res-22:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "com.shinow.qrscan-material-1.3.0-4:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    }
+]

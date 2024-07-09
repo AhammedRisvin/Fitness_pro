@@ -1,0 +1,12 @@
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-java-1.0.0-beta04-0 C:\Users\admin\.gradle\caches\transforms-3\1d6e78cb29093571443e5ba80bcbfa57\transformed\jetified-window-java-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-annotation-experimental-1.1.0-1 C:\Users\admin\.gradle\caches\transforms-3\d116adae52d498749ef67daaa05aaa28\transformed\jetified-annotation-experimental-1.1.0\res
+com.baseflow.permissionhandler.permission_handler_android-core-1.6.0-2 C:\Users\admin\.gradle\caches\transforms-3\f77188eae385153c45529333d8bb2710\transformed\core-1.6.0\res
+com.baseflow.permissionhandler.permission_handler_android-jetified-window-1.0.0-beta04-3 C:\Users\admin\.gradle\caches\transforms-3\fd40f8a2f924f2bee2ebf3ed7fc59bb7\transformed\jetified-window-1.0.0-beta04\res
+com.baseflow.permissionhandler.permission_handler_android-main-4 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.0.5\android\src\main\res
+com.baseflow.permissionhandler.permission_handler_android-release-5 C:\Users\admin\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.0.5\android\src\release\res
+com.baseflow.permissionhandler.permission_handler_android-pngs-6 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\generated\res\pngs\release
+com.baseflow.permissionhandler.permission_handler_android-resValues-7 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\generated\res\resValues\release
+com.baseflow.permissionhandler.permission_handler_android-rs-8 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\generated\res\rs\release
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-9 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.baseflow.permissionhandler.permission_handler_android-mergeReleaseResources-10 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.baseflow.permissionhandler.permission_handler_android-merged_res-11 D:\ADAM\adamprojects\OlympicCombat\build\permission_handler_android\intermediates\merged_res\release
